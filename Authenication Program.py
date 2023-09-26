@@ -13,8 +13,6 @@
 
 
 
-
-
 #Making a username and password
 
 
@@ -34,11 +32,10 @@
 
 
 
-#after recieving validation they are given an option of returning to main menu or quiting the program
+#after recieving validation they are given an option of returning to main menu
 
 
 
-__main__
 
 
 
