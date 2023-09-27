@@ -1,0 +1,106 @@
+Sign-in Page:
+
+
+
+1.
+Sign Into an Account
+* Enter 'menu' at any prompt to return to the menu page *
+
+
+
+2.
++————————————-----------------------------------------------+
+| Sign Into an Account                                      |
++———--————————----------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
+
+
+3.
++————————————----------+
+| Sign Into an Account |
++———--————————----------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
+
+
+4.
++————————————------------------+
+| Sign Into an Account         |
++———--————————-----------------+
+| * Enter 'menu' at any prompt |
+| to return to the menu page * |
++------------------------------+
+
+Username: 
+Password:
+
+
+(if match fails)
+--> Login failed, please try again...
+(repeat current page)
+
+
+(after 3rd failed attempt, warning)                 
+* Warning: this page will lock out after 2 more failed attempts * 
+(pause)
+
+
+(repeat current page)
+Username:
+Password:
+
+
+(if match passes)
+1.
++---------------------+
+| ...Login Successful |
++---------------------+
+
+2.
+----------------------------
+ \  * Login Successful *  /
+  ------------------------
+   \/\\/\\/\\/\\/\\/\\/\/ 
+    --------------------
+     \/\\/\\/\\/\/\\/\/
+      ----------------
+       \/\\/\\/\\/\\/  
+        ------------  
+         \/\\/\\/\/
+          --------
+           \/\\//          
+            ----
+             \/
+             /\
+             \/
+             /\
+             \/
+             /\
+             \/
+             /\
+             --
+            ----             
+            (insert pun)
+
+
+
+Return to main menu (y/n)? y=main menu || n=pun again
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

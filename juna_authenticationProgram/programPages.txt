@@ -1,0 +1,196 @@
+Class Menu:
+	title
+	number of options
+	adding text to each option
+	
+
+welcomeMenu = new MenuPage()
+
+welcomeMenu.numberOfOptions(2)
+
+
+Do you want to return to the main menu (y/n):
+
+
+
+At any prompt in time, enter 'menu' to return to the menu page
+Enter 'menu' at any prompt to return to the menu page
+
+Welcome to the Login Authentication Program:
+1. Login
+2. Create account
+3. Exit
++————————————------------------------------------------------+
+|        Welcome to the Login Authentication Program         |
++———-+————————-----------------------------------------------+
+| 1. | Login                                                 |
+| 2. | Create account                                        |
+| 3. | Exit                                                  |
++----+-------------------------------------------------------+
+
++————————————---------------------------------+
+| Welcome to the Login Authentication Program |
++———-+————————--------------------------------+
+| 1. | Login                                  |
+| 2. | Create account                         |
+| 3. | Exit                                   |
++----+----------------------------------------+
+
++————--------------------+
+| Welcome to the Login   |
+| Authentication Program |
++———-+————————-----------+
+| 1. | Login             |
+| 2. | Create account    |
+| 3. | Exit              |
++----+-------------------+
+>
+
+
+
++————————————-----------------------------------------------+
+| Sign Into an Account                                      |
++———--————————----------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
++————————————----------+
+| Sign Into an Account |
++———--————————----------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
++————————————------------------+
+| Sign Into an Account         |
++———--————————-----------------+
+| * Enter 'menu' at any prompt |
+| to return to the menu page * |
++------------------------------+
+
+Username: 
+Password:
+
+(if match fails)
+--> Login failed, please try again...
+(repeat current page)
+
+(after 3rd failed attempt, warning)                 
+* Warning: this page will lock out after 2 more failed attempts * 
+(pause)
+
+(repeat current page)
+Username:
+Password:
+
+(if match passes)
++---------------------+
+| ...Login Successful |
++---------------------+
+
+----------------------------
+ \  * Login Successful *  /
+  ------------------------
+   \                    /
+    --------------------
+     \                /
+      ----------------
+       \            /
+        ------------  
+         \        /         
+          --------
+           \    /          
+            ----
+             \/ 
+(insert pun)
+
+Return to main menu (y/n)? y=main menu || n=pun again
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++————————————-----------------------------------------------+
+| Account Creation                                          |
++———--————————----------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
++————————————------+
+| Account Creation |                                         
++———--————————-----+----------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
++————————————-----------------------------------------------+
+|                     Account Creation                      |
++———--————————----------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page * |
++-----------------------------------------------------------+
+
++————————————------------------+
+| Account Creation             |                                         
++——----------------------------+
+| * Enter 'menu' at any prompt |
+| to return to the menu page * |
++------------------------------+
+Enter a username:
+
+(if username already exists)
+--> Username already exists, please try again...
+
+(repeat current page)
+Enter a username:
+
+(if username passes check)
++————————————------------------------------------------------+
+|                   Password Requirements                    |
++———-+————————-----------------------------------------------+
+| 1. | != whitespace                                         |
+| 2. | >= 6 characters                                       |
+| 3. | >= 1 uppercase character                              |
+| 4. | >= 1 lowercase character                              |
+| 5. | >= 1 special characters                               |
+| 6. | >= 1 digit                                            |
++----+-------------------------------------------------------+
+| * Enter 'menu' at any prompt to return to the menu page *  |
++------------------------------------------------------------+
+
++————————————-------------------+
+| Password Requirements         |
++———-+————————------------------+
+| 1. | != whitespace            |                             
+| 2. | >= 6 characters          |                             
+| 3. | >= 1 uppercase character |                              
+| 4. | >= 1 lowercase character |                              
+| 5. | >= 1 special characters  |                            
+| 6. | >= 1 digit               |                             
++----+--------------------------+
+| * Enter 'menu' at any prompt  |
+| to return to the menu page *  |
++-------------------------------+
+Enter a password:
+
+(if password is fails check)
+--> Password does not satisfy requirements, please try again...
+
+(repeat current page)
+Enter a password: 
+
+(if password passes check)
+Re-enter password: 
+
+(if re-enter match fails)
+ 
+
+
