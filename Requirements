@@ -1,0 +1,16 @@
+# Menupage
+ #"Welcome to authenicator program"
+    # 1. Creating Account 
+    # 2. Login
+    # 3. Exit Program
+  #"Enter (1, 2, or 3)
+
+#Loginpage
+  #"Sign in to your account"
+  #At any time enter menu to return to the menu page"
+  #Username:
+  #Password:
+    # If correct "PUN"
+    # Do you want to return to the main menu
+    # If incorrect "login failed"
+
