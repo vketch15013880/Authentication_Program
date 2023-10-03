@@ -14,3 +14,30 @@
     # Do you want to return to the main menu
     # If incorrect "login failed"
 
+# Creatingaccountpage
+ #"Account Creation"
+ #"At any time enter mune to return to the menu page"
+ #Enter a Username:
+
+ #If already exist "Username already exists" restarts from the begining 
+ # If doesn't exists
+ # "Your password must contain"
+  # 1. 6 characters 
+  # 2. 1 uppercase
+  # 3. 1 lowercase
+  # 4. Special character
+  # 5. 1 digit 
+ # "At any time enter menu to return to the menu page"
+  # Enter a password:
+    #If doen't meet all of the requirments go back to the your password must contain
+    # If meets requirements
+  #"Reenter Password:
+    #If correct "You created an account"
+                 #"Do you want to return to the menu (y/n)"
+     #If incorrect "Passwords did not match"
+
+
+
+
+
+
