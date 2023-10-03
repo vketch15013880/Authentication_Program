@@ -13,7 +13,7 @@ def store():
         print (logins)
 
 def store():
-    mainMenu()
+    store()
     
     
 if __name__ == "__main__":
