@@ -2,7 +2,7 @@
 
 
 
-def mainMenu():
+def store():
     logins={}
 
     username= input("Create a username:")
@@ -12,7 +12,7 @@ def mainMenu():
     for login in logins:
         print (logins)
 
-def main():
+def store():
     mainMenu()
     
     
