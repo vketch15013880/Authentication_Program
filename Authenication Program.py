@@ -3,7 +3,7 @@
 #Place to login
 #Store the Username and Password(Dictionary)
 #No 2 users have the same username
-#Password Complexity Requirments (maximum password(69 chars), 6 chars, special char($,_,-,.,),1 num,
+#Password Complexity Requirments (maximum password(68 chars), 6 chars, special char($,_,-,.,),1 num,
 #1 lowercase, 1 uppercase
 #Check the password entered (type the password and retype it)
 
